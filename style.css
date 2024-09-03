@@ -129,7 +129,7 @@ section button {
     padding: 1rem; /* Espaçamento interno */
     margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
     box-shadow: 0px 10px 10px rgba(157, 219, 255, 0.075); /* Sombra leve */
-    width: 24rem;
+    width: 170vh;
 }
 
 /* Estiliza os títulos dentro dos itens de resultado */
